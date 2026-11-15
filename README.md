@@ -45,7 +45,6 @@ Project Files
 
 - "Ecommerce_Sales_Analysis.ipynb" – Python analysis notebook
 - "Dashboard.png" – Power BI dashboard preview
-- "Ecommerce_Sales_Analysis.pbix" – Power BI dashboard file (if uploaded)
 
 Dataset
 
