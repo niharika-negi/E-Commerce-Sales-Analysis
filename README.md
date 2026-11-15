@@ -1,8 +1,5 @@
 # E-Commerce-Sales-Analysis
 
-![E-Commerce Sales Dashboard]
-(Dashboard.png)
-
 An end-to-end data analytics project using Python, Pandas, and Power BI to analyze Brazilian E-Commerce sales data.
 
 Project Overview
