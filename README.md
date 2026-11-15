@@ -41,6 +41,10 @@ Dashboard Features
 - Top Customer States by Orders
 - Interactive Filters
 
+ ## Dashboard Preview
+
+![E-Commerce Sales Dashboard](./Dashboard.png)
+
 Project Files
 
 - "Ecommerce_Sales_Analysis.ipynb" – Python analysis notebook
